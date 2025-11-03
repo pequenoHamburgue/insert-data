@@ -1,3 +1,8 @@
+Passo1 - criar o ambiente virtual.
 python3 -m venv bins
 
+passo2 - Entrar na pasta criada "bins" e entrar em "bin" e usar o comando:
+source activate
+
+passo3 - retornar a pasta de origem e instalar os requerements.txt
 pip install -r requirements.txt
